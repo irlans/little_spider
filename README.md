@@ -1,0 +1,2 @@
+# little_spider
+一个小型的从猎聘网站获取信息的scrapy_redis分布式爬取代码
